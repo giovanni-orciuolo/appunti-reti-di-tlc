@@ -1,4 +1,4 @@
-# Reti di Telecomuncazioni - Appunti
+# Reti di Telecomunicazioni - Appunti
 
 Ho scritto questi appunti basandomi INTERAMENTE sulle lezioni del prof. Gennaro Boggia. Non sono state usate fonti esterne (es. libri), quindi alcuni argomenti non sono approfonditi.
 
